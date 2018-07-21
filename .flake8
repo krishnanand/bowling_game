@@ -1,0 +1,11 @@
+[flake8]
+ignore=E722,E129
+max-line-length=80
+include=game/
+exclude =
+    **/migrations/*,
+    ../env/**,
+    bowling_game/settings.py,
+    **/__pycache__/**,
+    **/migrations/**
+max-complexity = 10

@@ -1,0 +1,12 @@
+[paths]
+source=game/
+
+[run]
+omit=
+    **/tests/**
+    manage.py
+    **/migrations/**
+
+[html]
+directory=html_coverage_report
+title="Bowling Game Test Coverage Report"

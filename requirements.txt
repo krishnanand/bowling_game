@@ -1,0 +1,7 @@
+Django==2.0.6
+djangorestframework==3.8.2
+pytest==3.6.2
+pytest-django==3.3.2
+pytest-cov==2.5.1
+django_mock_queries==2.0.1
+flake8==3.5.0
