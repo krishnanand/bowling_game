@@ -1,4 +1,4 @@
-# Restful Webservice to allow the users to player a bowling game [![Build Status](https://travis-ci.org/manoflogan/DsAndAlgo_Java.png)](https://travis-ci.org/krishnanand/bowling_game)
+# Restful Webservice to allow the users to player a bowling game [![Build Status](https://travis-ci.org/krishnanand/bowling_game.svg?branch=master)](https://travis-ci.org/krishnanand/bowling_game)
 
 ## Table of Contents
 
